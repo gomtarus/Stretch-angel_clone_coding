@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# 스트레치엔젤스 웹 클론코
+● React, HTML, CSS, JSX로 구현한 웹 사이트 입니다.<br>
+● 스트레치엔젤스 웹 사이트를 React로 클론 코딩하였습니다.<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 화면 설명 #
+![메뉴 설명](https://user-images.githubusercontent.com/118651919/227261860-8129779a-a5e0-4902-a8f1-152fb5d8737e.png)
+![메뉴](https://user-images.githubusercontent.com/118651919/227261898-26be61de-7d6e-4ed2-8355-484fc38052b7.png)
+![1212](https://user-images.githubusercontent.com/118651919/227262358-7ee10730-f906-44c5-a67b-aef9febac4bb.png)
 
-## Available Scripts
+### 메인 <br>
 
-In the project directory, you can run:
+1. 팝업<br>
+   - 이벤트 팝업입니다.
+   - 팝업을 닫지 않은 상태에서 스크롤을 내리면 자동으로 감춰집니다.<br><br> 
+2. 메뉴<br>
+   - 사이트의 메뉴입니다.<br><br> 
+3. 슬라이드<br>
+   - 메인 배너입니다. 마우스를 끌어 이미지를 바꾸거나 버튼을 통해 넘길 수 있습니다. <br><br>
 
-### `npm start`
+![Layer 1](https://user-images.githubusercontent.com/118651919/227263554-ed6bf5a7-dd66-4a14-9807-db44df5448aa.png)
+![Layer 2](https://user-images.githubusercontent.com/118651919/227263851-c7bd2902-cc0b-4dad-a03e-b0f7a7b81541.png)
+![2323](https://user-images.githubusercontent.com/118651919/227264481-4d93f16a-ef73-4a5c-b8d0-0bab6328b28f.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 아이템 슬라이드 <br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. 슬라이드<br>
+   - 각 탭에 8개의 아이템이 표시됩니다.
+   - 마우스를 끌어 옆으로 이동하여 다음 아이템을 볼 수 있습니다.
+   - 아이템 hover시 다음 이미지가 표시됩니다.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 🌍 [사이트](https://gomtarus.github.io/Stretch-angel_clone_coding)<br>
+### 🌍 [원본 사이트](https://stretch-angels.com/)<br>
