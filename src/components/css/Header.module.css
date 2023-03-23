@@ -1,0 +1,307 @@
+.top_wrap {
+  width: 100%;
+  height: 97px;
+  position: fixed;
+  z-index: 9999;
+}
+
+/*top*/
+
+.event_popup_wrap {
+  width: 100%;
+  height: 37px;
+  background-color: black;
+}
+
+.event_popup {
+  margin: 0 auto;
+  width: 1712.7px;
+  height: 37px;
+  position: relative;
+}
+
+.event_popup span {
+  font-size: 13px;
+  font-weight: bold;
+  color: white;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  cursor: pointer;
+}
+
+.event_popup_close {
+  width: 15px;
+  height: 15px;
+  top: 50%;
+  right: 0;
+  transform: translate(0, -50%);
+  position: absolute;
+  background: url(../img/evnet/top_close.png);
+  cursor: pointer;
+}
+
+/*팝업*/
+
+.header_wrap {
+  width: 100%;
+  height: 60px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header_main {
+  width: 100%;
+  height: 60px;
+  background-color: rgb(245, 245, 245);
+  position: absolute;
+  transition: 0.3s;
+}
+
+.header {
+  width: 1712.7px;
+  height: 60px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 264px;
+}
+
+/*헤더*/
+
+/*네비*/
+.top_menu {
+  width: 264px;
+}
+
+.top_menu > .menu_wrap_ul {
+  float: right;
+}
+
+.top_menu ul li {
+  margin-left: 40px;
+  display: inline-block;
+}
+
+.top_menu ul li > img {
+  position: relative;
+  cursor: pointer;
+}
+
+/*메뉴그룹*/
+
+.middle_wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.banner_wrap {
+  width: 100%;
+  height: 850px;
+}
+
+.banner_wrap > img {
+  width: 100%;
+}
+
+.box {
+  width: 100%;
+  height: 3000px;
+  background-color: gainsboro;
+}
+
+/*테스트*/
+
+@media (max-width: 1000px) {
+}
+
+/*반응형*/
+
+.top_nav {
+  width: calc(100% - (264px * 2));
+  height: 60px;
+}
+
+.menu_wrap {
+  margin: 7px;
+  text-align: center;
+  height: 45px;
+  line-height: 45px;
+}
+/**/
+
+.menu_wrap > li {
+  width: 115px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.menu_wrap > li > a {
+  display: block;
+}
+
+.menu_wrap > li:hover > .menu_cover1 {
+  display: block;
+}
+
+.menu_1 {
+  display: block;
+  position: relative;
+}
+
+.menu_1 > li > a {
+  width: 80%;
+  height: 30px;
+  line-height: 30px;
+  font-size: 13px;
+  color: rgb(150, 150, 150);
+  background-color: white;
+  display: block;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+/*--------------------*/
+
+.menu_2 {
+  display: block;
+  left: 115px;
+  top: 10px;
+}
+
+.menu_2 > li {
+  width: 115px;
+}
+
+.menu_2 > li > a {
+  width: 80%;
+  height: 30px;
+  line-height: 30px;
+  font-size: 13px;
+  color: rgb(150, 150, 150);
+  background-color: white;
+  display: block;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.menu_2 > li:hover > a {
+  background-color: #f5f5f5;
+  color: black;
+}
+
+.menu_2 > li:hover > a > .more_arrow {
+  transform: rotate(180deg);
+}
+/*hover시 a태그 배경 및 글자 유지 */
+
+.menu_1 > li:hover > .menu_cover2 {
+  display: block;
+}
+/*hover시 2번쨰 메뉴 보이기 */
+
+.menu_1 > li:hover > a {
+  background-color: #f5f5f5;
+  color: black;
+}
+
+.menu_1 > li:hover > a > .more_arrow {
+  transform: rotate(180deg);
+}
+/*hover시 a태그 배경 및 글자 유지 */
+
+/*--------------------*/
+
+.menu_3 {
+  display: block;
+}
+
+.menu_3 > li {
+  width: 115px;
+}
+
+.menu_3 > li > a {
+  width: 80%;
+  height: 30px;
+  line-height: 30px;
+  font-size: 13px;
+  color: rgb(150, 150, 150);
+  background-color: white;
+  display: block;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.menu_3 > li > a:hover {
+  background-color: #f5f5f5;
+  color: black;
+}
+
+.menu_2 > li:hover > .menu_cover3 {
+  display: block;
+}
+
+.menu_cover1 {
+  display: none;
+  padding: 10px 0px 10px 0px;
+  background-color: white;
+}
+/* 첫 번쨰 메뉴 배경*/
+
+.menu_cover2 {
+  left: 115px;
+  display: none;
+  padding: 10px 0px 10px 0px;
+  background-color: white;
+  position: absolute;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+/* 두 번쨰 메뉴 배경*/
+
+.menu_cover3 {
+  left: 115px;
+  display: none;
+  padding: 10px 0px 10px 0px;
+  background-color: white;
+  position: absolute;
+  border: 1px solid black;
+  box-sizing: border-box;
+}
+/* 세 번쨰 메뉴 배경*/
+
+/*메뉴 padding 주기*/
+
+.more_arrow {
+  width: 6px;
+  top: 10px;
+  right: 0px;
+  position: absolute;
+  transition: 0.3s;
+}
+
+/*화살표*/
+
+.scroll_group {
+  width: 55px;
+  height: 130px;
+  position: fixed;
+  bottom: 50px;
+  right: 30px;
+  z-index: 9999;
+}
+
+.scroll_group > img {
+  cursor: pointer;
+}
+
+/*top, down*/

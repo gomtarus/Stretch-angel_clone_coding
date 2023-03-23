@@ -1,0 +1,441 @@
+{
+  "bagType": [
+    { "itemType": "HOBO" },
+    { "itemType": "PANNI" },
+    { "itemType": "ETC" }
+  ],
+
+  "bagItem": [
+    {
+      "idx": 1,
+      "itemType": "HOBO",
+      "itemName": "빅 시티 호보백_블랙",
+      "discount": 10,
+      "price": 159000
+    },
+    {
+      "idx": 2,
+      "itemType": "HOBO",
+      "itemName": "뉴 시티 호보백_베이지",
+      "discount": 10,
+      "price": 119000
+    },
+    {
+      "idx": 3,
+      "itemType": "HOBO",
+      "itemName": "뉴 시티 호보백_블랙",
+      "discount": 10,
+      "price": 119000
+    },
+    {
+      "idx": 4,
+      "itemType": "HOBO",
+      "itemName": "마카롱 호보백_라이트블루",
+      "discount": 10,
+      "price": 109000
+    },
+    {
+      "idx": 5,
+      "itemType": "HOBO",
+      "itemName": "레디투 미니 호보백_오렌지",
+      "discount": 10,
+      "price": 109000
+    },
+    {
+      "idx": 6,
+      "itemType": "HOBO",
+      "itemName": "리사이클 나일론 시티 호보백[시즌백]_크림",
+      "discount": 10,
+      "price": 119000
+    },
+    {
+      "idx": 7,
+      "itemType": "HOBO",
+      "itemName": "레디투 미니 호보백_그린",
+      "discount": 10,
+      "price": 109000
+    },
+    {
+      "idx": 8,
+      "itemType": "HOBO",
+      "itemName": "글로시 데리투 미니 호보백_다크핑크",
+      "discount": 10,
+      "price": 109000
+    },
+    {
+      "idx": 9,
+      "itemType": "PANNI",
+      "itemName": "[SE]뉴 미니 파니니백_블랙",
+      "discount": 10,
+      "price": 119000
+    },
+    {
+      "idx": 10,
+      "itemType": "PANNI",
+      "itemName": "[SE]뉴 미니 파니니백_크림",
+      "discount": 10,
+      "price": 119000
+    },
+    {
+      "idx": 11,
+      "itemType": "PANNI",
+      "itemName": "캐주얼 파니니백_핑크",
+      "discount": 10,
+      "price": 89000
+    },
+    {
+      "idx": 12,
+      "itemType": "PANNI",
+      "itemName": "[SE]뉴 베이직 파니니백_브라운",
+      "discount": 10,
+      "price": 125000
+    },
+    {
+      "idx": 13,
+      "itemType": "PANNI",
+      "itemName": "[SE]뉴 베이직 파니니백_다크올리브",
+      "discount": 10,
+      "price": 112500
+    },
+    {
+      "idx": 14,
+      "itemType": "PANNI",
+      "itemName": "캐주얼 파니니백_블랙",
+      "discount": 10,
+      "price": 89000
+    },
+    {
+      "idx": 15,
+      "itemType": "PANNI",
+      "itemName": "캐주얼 파니니백_화이트",
+      "discount": 10,
+      "price": 89000
+    },
+    {
+      "idx": 16,
+      "itemType": "PANNI",
+      "itemName": "에어 파니니백_핑크",
+      "discount": 10,
+      "price": 119000
+    },
+    {
+      "idx": 17,
+      "itemType": "ETC",
+      "itemName": "원 포인트 비니_블랙",
+      "discount": 0,
+      "price": 39000
+    },
+    {
+      "idx": 18,
+      "itemType": "ETC",
+      "itemName": "SA 참 숏 스트랩_블랙",
+      "discount": 0,
+      "price": 39000
+    },
+    {
+      "idx": 19,
+      "itemType": "ETC",
+      "itemName": "2PACK 원 포인트 삭스_그린",
+      "discount": 0,
+      "price": 29000
+    },
+    {
+      "idx": 20,
+      "itemType": "ETC",
+      "itemName": "나일론 슈슈_블랙",
+      "discount": 0,
+      "price": 19000
+    },
+    {
+      "idx": 21,
+      "itemType": "ETC",
+      "itemName": "SA 참 스트랩_크림",
+      "discount": 0,
+      "price": 59000
+    },
+    {
+      "idx": 22,
+      "itemType": "ETC",
+      "itemName": "하트 파니니 스트랩_블랙",
+      "discount": 0,
+      "price": 45000
+    },
+    {
+      "idx": 23,
+      "itemType": "ETC",
+      "itemName": "레디투 마이크로 호보 파우치_블랙",
+      "discount": 0,
+      "price": 39000
+    },
+    {
+      "idx": 24,
+      "itemType": "ETC",
+      "itemName": "하트 파니니 스트랩_라이트옐로우",
+      "discount": 0,
+      "price": 45000
+    }
+  ],
+
+  "newItem": [
+    {
+      "idx": 1,
+      "itemType": "HOBO",
+      "itemName": "캐주얼 파니니백_블랙",
+      "discount": 10,
+      "price": 89000
+    },
+    {
+      "idx": 2,
+      "itemType": "ETC",
+      "itemName": "캐주얼 파니니백_화이트",
+      "discount": 10,
+      "price": 89000
+    },
+    {
+      "idx": 3,
+      "itemType": "ETC",
+      "itemName": "캐주얼 파니니백_핑크",
+      "discount": 10,
+      "price": 89000
+    },
+    {
+      "idx": 4,
+      "itemType": "ETC",
+      "itemName": "위틀리 토트백_블루",
+      "discount": 10,
+      "price": 119000
+    },
+    {
+      "idx": 5,
+      "itemType": "ETC",
+      "itemName": "위클리 토트백_크림",
+      "discount": 10,
+      "price": 119000
+    }
+  ],
+
+  "CLOTHES_Type": [
+    { "itemType": "TOP" },
+    { "itemType": "BOTTOM" },
+    { "itemType": "OUTER" }
+  ],
+
+  "CLOTHES_Item": [
+    {
+      "idx": 1,
+      "itemType": "TOP",
+      "itemName": "레터링 그래픽 맨투맨_멜란지그레이",
+      "new": 1,
+      "pick": 0,
+      "discount": 0,
+      "price": 89000
+    },
+    {
+      "idx": 2,
+      "itemType": "TOP",
+      "itemName": "세미 크롭 후드티_블랙",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 99000
+    },
+    {
+      "idx": 3,
+      "itemType": "TOP",
+      "itemName": "레터링 그래픽 맨투맨_민트",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 89000
+    },
+    {
+      "idx": 4,
+      "itemType": "TOP",
+      "itemName": "반집 크롭 맨투맨_바이올렛",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 99000
+    },
+    {
+      "idx": 5,
+      "itemType": "TOP",
+      "itemName": "레디투 하프 집업 맨투맨_블랙",
+      "new": 0,
+      "pick": 1,
+      "discount": 0,
+      "price": 89000
+    },
+    {
+      "idx": 6,
+      "itemType": "TOP",
+      "itemName": "레디투 하프 집업 맨투맨_크림",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 89000
+    },
+    {
+      "idx": 7,
+      "itemType": "TOP",
+      "itemName": "세일러 스트라이프 니트_블랙",
+      "new": 0,
+      "pick": 1,
+      "discount": 0,
+      "price": 129000
+    },
+    {
+      "idx": 8,
+      "itemType": "TOP",
+      "itemName": "3 SET UP 그래픽 맨투맨_스카이블루",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 89000
+    },
+    {
+      "idx": 9,
+      "itemType": "BOTTOM",
+      "itemName": "레터링 숏팬츠_멜란지그레이",
+      "new": 1,
+      "pick": 0,
+      "discount": 0,
+      "price": 69000
+    },
+    {
+      "idx": 10,
+      "itemType": "BOTTOM",
+      "itemName": "3 SET UP 셋업 스커트_스카이블루",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 119000
+    },
+    {
+      "idx": 11,
+      "itemType": "BOTTOM",
+      "itemName": "후드 셋업 부츠컷 팬츠_블랙",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 79000
+    },
+    {
+      "idx": 12,
+      "itemType": "BOTTOM",
+      "itemName": "오버핏 조거팬츠_민트",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 89000
+    },
+    {
+      "idx": 13,
+      "itemType": "BOTTOM",
+      "itemName": "레디투 조거팬츠_블랙",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 79000
+    },
+    {
+      "idx": 14,
+      "itemType": "BOTTOM",
+      "itemName": "3 SET UP 부츠컷 팬츠_네이비",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 99000
+    },
+    {
+      "idx": 15,
+      "itemType": "BOTTOM",
+      "itemName": "3 SET UP 셋업 스커트_네이비",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 69000
+    },
+    {
+      "idx": 16,
+      "itemType": "BOTTOM",
+      "itemName": "레디투 카고 조거팬츠_블랙",
+      "new": 0,
+      "pick": 0,
+      "discount": 0,
+      "price": 119000
+    },
+    {
+      "idx": 17,
+      "itemType": "OUTER",
+      "itemName": "러브클럽 에코퍼 하이브리드 패딩 점퍼_크림",
+      "new": 0,
+      "pick": 0,
+      "discount": 30,
+      "price": 259000
+    },
+    {
+      "idx": 18,
+      "itemType": "OUTER",
+      "itemName": "러브클럽 코듀로이 덕 숏 다운_베이지",
+      "new": 0,
+      "pick": 0,
+      "discount": 30,
+      "price": 299000
+    },
+    {
+      "idx": 19,
+      "itemType": "OUTER",
+      "itemName": "러브클럽 롱 퀼팅 구스 다운_베이지",
+      "new": 0,
+      "pick": 0,
+      "discount": 30,
+      "price": 279000
+    },
+    {
+      "idx": 20,
+      "itemType": "OUTER",
+      "itemName": "러브클럽 에코퍼 하이브리드 패딩 점퍼_라이트블루",
+      "new": 0,
+      "pick": 0,
+      "discount": 30,
+      "price": 259000
+    },
+    {
+      "idx": 21,
+      "itemType": "OUTER",
+      "itemName": "러브클럽 미드 퀼팅 구스 다운_크림",
+      "new": 0,
+      "pick": 0,
+      "discount": 30,
+      "price": 259000
+    },
+    {
+      "idx": 22,
+      "itemType": "OUTER",
+      "itemName": "러브클럽 미드 퀼팅 구스 다운_블랙",
+      "new": 0,
+      "pick": 0,
+      "discount": 30,
+      "price": 239000
+    },
+    {
+      "idx": 23,
+      "itemType": "OUTER",
+      "itemName": "에코퍼 후리스 숏패딩_아이보리",
+      "new": 0,
+      "pick": 0,
+      "discount": 30,
+      "price": 239000
+    },
+    {
+      "idx": 24,
+      "itemType": "OUTER",
+      "itemName": "러브클럽 하이넥 크롭 후리스_블랙",
+      "new": 0,
+      "pick": 0,
+      "discount": 50,
+      "price": 299000
+    }
+  ]
+}

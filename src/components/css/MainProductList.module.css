@@ -1,0 +1,246 @@
+.main_wrap {
+  width: 100%;
+  height: 100vh;
+}
+
+/*탭*/
+/*------------------------*/
+/*------------------------*/
+
+.m_title {
+  max-width: 1720px;
+  margin: 150px auto 40px;
+  position: relative;
+  font-size: 0px;
+  line-height: 1px;
+  text-align: center;
+}
+
+.m_title span {
+  font-size: 22px;
+  font-weight: 700;
+  color: #222;
+}
+
+.ul_tap_1 {
+  margin-top: 30px;
+  font-size: 0;
+}
+
+.ul_tap_1 > li {
+  display: inline-block;
+  height: 20px;
+  margin-left: 55px;
+  font-size: 15px;
+  color: #aaa;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.ul_tap_1 > li:first-child {
+  margin-left: 0;
+}
+
+.m_tap01_active {
+  font-weight: 500;
+  color: #111;
+  border-bottom: 2px solid #111;
+}
+
+/*탭*/
+/*------------------------*/
+/*------------------------*/
+
+.m_slider {
+  margin: 0 auto;
+  width: 1720px;
+  height: 740px;
+  position: relative;
+  overflow: hidden;
+}
+
+.m_slider_group {
+  margin-top: 10px;
+  width: 100%;
+  position: absolute;
+  background-color: white;
+}
+
+.item_box {
+  width: 435px;
+  height: 740px;
+  background-color: white;
+}
+
+/*기본 프레임*/
+.item_img {
+  height: 570px;
+  position: relative;
+}
+
+.item_img > img {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  position: absolute;
+  transition: 0.3s;
+}
+
+.item_img > img:hover {
+  opacity: 0;
+}
+
+/*이미지*/
+.item_box > ul {
+  padding: 15px 10px;
+}
+
+.item_box > ul > li {
+  margin-bottom: 10px;
+}
+
+.discount {
+  font-size: 15px;
+  font-weight: 500;
+  padding: 0px 10px 0px 0px;
+  color: #dcb190;
+}
+.price {
+  font-size: 13px;
+  color: #999999;
+  text-decoration: line-through;
+}
+
+.dis_price {
+  font-size: 13px;
+  color: #222222;
+  font-weight: 500;
+}
+/*가격*/
+
+.item_idx {
+  top: 25px;
+  left: 25px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #222;
+  z-index: 9999;
+  position: absolute;
+  border-bottom: 2px solid #222;
+}
+
+/*순서*/
+
+.item_like {
+  width: 73px;
+  height: 73px;
+  background: url(../img/item/item_liek.png);
+  bottom: 25px;
+  right: 10px;
+  position: absolute;
+  z-index: 9999;
+  cursor: pointer;
+}
+
+/*찜*/
+/*슬라이드 아이템*/
+/*------------------------*/
+/*------------------------*/
+
+.m_item_list_wrap {
+  margin: 0 auto;
+  width: 1720px;
+  height: 550px;
+  position: relative;
+  overflow: hidden;
+}
+
+.m_item_list_wrap > ul > li {
+  width: calc((100% - (10px * 4)) / 5);
+  height: 740px;
+  margin-right: 10px;
+  float: left;
+}
+
+.new_item_box {
+  width: 100%;
+  height: 447px;
+  position: relative;
+}
+
+.new_item_box > img {
+  width: 100%;
+  position: absolute;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.m_item_list_wrap ul li:last-child {
+  margin-right: 0px;
+}
+
+.new_item_info {
+  padding: 15px 0px;
+}
+
+.new_item_info > li {
+  margin-bottom: 10px;
+}
+
+.item_new {
+  width: 83px;
+  height: 20px;
+  background: url(../img/item/new.png) no-repeat center;
+  background-size: cover;
+  bottom: 0px;
+  position: absolute;
+  z-index: 9999;
+}
+
+/*슬라이드 아이템*/
+/*------------------------*/
+/*------------------------*/
+
+.CLOTHES_new {
+  width: 83px;
+  height: 20px;
+  background: url(../img/item/new.png) no-repeat center;
+  background-size: cover;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  z-index: 9999;
+}
+
+.CLOTHES_pick {
+  width: 83px;
+  height: 20px;
+  background: url(../img/item/pick.jpg) no-repeat center;
+  background-size: cover;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  z-index: 9999;
+}
+
+/*CLOTHES 아이템*/
+/*------------------------*/
+/*------------------------*/
+
+.evnet_banner {
+  margin: 30px auto;
+  width: 1720px;
+  height: 300px;
+  position: relative;
+  background-color: #bcd1df;
+  margin-bottom: 100px;
+}
+
+.evnet_banner > img {
+  padding: 0 200px;
+  cursor: pointer;
+}
+
+/*------------------------*/
+/*------------------------*/
